@@ -8,6 +8,8 @@
 
 
 ## Small Aircraft Makes Injury Rate 
+It is clear that small airplanes are more likely to be destroyed in accidents than large ones. Insurance rates for small airplanes in general should probably be higher than for large ones. 
+The small airplanes least likely to be destroyed are manufactured by grumman acft eng cor-schweizer,american champion aircraft,aviat aircraft inc,dehavilland,diamond aircraft ind inc,flight design gmbh, robinson helicopter,bombardier,let,robinson helicopter company,aviat, waco,fokker,ercoupe, and maule. Insurance rates for these makes may be lower. 
 
 
 ![small_aircraft_makes_injury_rate](plots3/small_aircraft_makes_injury_rate.png)
